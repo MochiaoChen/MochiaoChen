@@ -16,10 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MochiaoChen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiaoChen&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MochiaoChen&show_icons=true&rank_icon=github&hide=contribs" />
+  <img height="150" src="https://streak-stats.demolab.com?user=MochiaoChen" />
 </p>
-
 ---
 
 ### 🚀 About Me
