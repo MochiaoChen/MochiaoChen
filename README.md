@@ -13,13 +13,12 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Double major in **Finance** & **Computer Science**
+- 🎓 Major in **Finance**, in **Hongru Experimental Program**
 - 🧪 Focus: **AI-for-Finance**, **Agent-based market simulation**, **NLP**
 - ✍️ Writes long-form tech & economics explainers
 
 ### 🧰 Tech Stack
-`Python` `PyTorch` `Pandas` `NumPy` `C++` `FastAPI`  
-`SQL` `Docker` `Git` `LaTeX`
+`Python` `Pandas` `NumPy` `C++` `SQL` `Docker` `Git` `LaTeX`
 
 ---
 
@@ -59,7 +58,7 @@
 
 ---
 
-### ⏱️ WakaTime (optional)
+### ⏱️ WakaTime 
 <!-- 需要你在 WakaTime 开启公开统计，并设置用户名 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MochiaoChen&theme=tokyonight&hide_border=true" />
