@@ -62,7 +62,7 @@
 ### ⏱️ WakaTime (optional)
 <!-- 需要你在 WakaTime 开启公开统计，并设置用户名 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MochiaoChen&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
