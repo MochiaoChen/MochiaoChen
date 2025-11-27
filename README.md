@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mochiao Chen 👋</h1>
 <p align="center">
-  学生 • Finance × CS • 创意写作者 | AI-for-Finance · Agent-based Simulation · NLP
+  Student • Finance × CS • Creative writer | AI-for-Finance · Agent-based Simulation · NLP
 </p>
 
 <!-- Badges -->
